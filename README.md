@@ -13,9 +13,9 @@ Our project is fully open-sourced, and **all dataset files are available on our 
   Dense and sparse point clouds in `.ply` and `.pcd` formats.
 - [√] **Processed Data**  
   Includes COLMAP outputs, RealityCapture projects, and TLS-based ground truth files.
-- [√] **Virtual Reality Files**  
+- [x] **Virtual Reality Files**  
   VR-ready 3D scenes with high-detail meshes and point clouds using realisy capture.
-- [x] **Unreal Engine Project**  
+- [ ] **Unreal Engine Project**  
   Currently pending upload – to be finished and shared later. (uploading, pending next week)
 
 For an in-depth look at our methodology and results, please refer to our [Arxiv Paper](https://arxiv.org/abs/XXXX.XXXXX). You can also explore the complete open-source dataset and supporting code on our [GitHub Repository](https://github.com/OpenInterX/CULTURE3D).
