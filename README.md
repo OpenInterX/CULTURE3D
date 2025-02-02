@@ -7,11 +7,11 @@ This repository contains a collection of large-scale, fine-grained 3D datasets u
 Our project is fully open-sourced, and **all dataset files are available on our Google Drive**. In addition, we are actively working on our Unreal Engine project, which will be uploaded as soon as it’s completed. Below is a quick overview of our current resources and their statuses:
 
 ### Google Drive Contents [Google Drive Link](https://drive.google.com/drive/folders/1LaxcwUI1R1trs6lmHGU_3odBo6B8xiob?usp=sharing)
-- [√] **Raw Images**  
+- [x] **Raw Images**  
   High-resolution JPEG images for each capture.
-- [√] **Point Cloud Data**  
+- [x] **Point Cloud Data**  
   Dense and sparse point clouds in `.ply` and `.pcd` formats.
-- [√] **Processed Data**  
+- [x] **Processed Data**  
   Includes COLMAP outputs, RealityCapture projects, and TLS-based ground truth files.
 - [x] **Virtual Reality Files**  
   VR-ready 3D scenes with high-detail meshes and point clouds using realisy capture.
